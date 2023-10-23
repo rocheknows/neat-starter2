@@ -1,5 +1,6 @@
 ---
 title: This is my first post
+preview: /static/img/1.jpg
 description: "1"
 author: "1"
 date: 2020-08-31T23:00:00.000Z
